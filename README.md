@@ -41,8 +41,6 @@ python diffraction.py
 
 ## Используемые формулы
 
-## Используемые формулы
-
 - **Параметр β** (для щели шириной `a`):
 
   <p align="center">
@@ -72,3 +70,7 @@ python diffraction.py
   <p align="center">
     L ≥ 10 · a² / λ
   </p>
+
+## Видео
+
+https://github.com/user-attachments/assets/af130405-f007-4569-846f-44e700c6d9cf
